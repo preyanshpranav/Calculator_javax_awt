@@ -19,7 +19,10 @@ This is a simple GUI-based Calculator built in Java using Swing. It supports bas
 
 🖼 Screenshots
 
-Replace path_to_screenshot/calculator.png with the actual path of your screenshot in the repository.
+![Calculator Screenshot](images/image-1.png)
+![Calculator Screenshot](images/image-2.png)
+![Calculator Screenshot](images/image-3.png)
+
 
 🗂 File Structure
 Calculator/
