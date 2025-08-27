@@ -19,7 +19,6 @@ This is a simple GUI-based Calculator built in Java using Swing. It supports bas
 
 🖼 Screenshots
 
-![Calculator Screenshot](images/image-1.png)
 ![Calculator Screenshot](images/image-2.png)
 ![Calculator Screenshot](images/image-3.png)
 
